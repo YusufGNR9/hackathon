@@ -1,0 +1,8 @@
+.card{
+    width: 18rem;
+    display:inline-block;
+    margin: 0 10px 0 0
+}
+.card:focus{
+    box-shadow: 3px 3px blue;
+}
